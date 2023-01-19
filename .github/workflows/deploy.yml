@@ -11,7 +11,7 @@ jobs:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.nqpbiip.mongodb.net
       MONGODB_USERNAME: sivathanu
-      MONGODB_PASSWORD: Z0ZFeLQH8HC2bvT9
+      MONGODB_PASSWORD: Z0ZFeLQH8HC2bvT
       PORT: 8080
     runs-on: ubuntu-latest
     steps:
